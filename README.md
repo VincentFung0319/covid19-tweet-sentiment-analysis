@@ -1,4 +1,4 @@
-# covid19-tweet-sentiment-analysis
+# COVID19 Tweet Sentiment Analysis
 A sentiment analysis of tweets referencing the COVID-19 pandemic
 
 The scientific paper and list of dates used (with corresponding links) are located in the root path
